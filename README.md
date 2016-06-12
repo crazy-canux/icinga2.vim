@@ -1,4 +1,4 @@
-# icinga.vim
+# icinga2.vim
 
 [Icinga](https://www.icinga.org) syntax for [vim](http://www.vim.org/).
 
@@ -18,9 +18,11 @@ Inspired by <https://github.com/Icinga/icinga2>
 
 # Contribution
 
-    If you are intrested, you can ask for pull request.
-    You can add your own ftdetect.
-    You can also create nagios.snippets files.
+If you are intrested, you can ask for pull request.
+
+You can add your own ftdetect.
+
+You can also create nagios.snippets files.
 
 # License
 
