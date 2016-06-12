@@ -21,3 +21,7 @@ Inspired by <https://github.com/Icinga/icinga2>
     If you are intrested, you can ask for pull request.
     You can add your own ftdetect.
     You can also create nagios.snippets files.
+
+# License
+
+Just as the vim, all the icinga2.vim are licensed under the terms of the GPL license.
