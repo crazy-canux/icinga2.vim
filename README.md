@@ -1,5 +1,8 @@
 # icinga.vim
+
 Icinga syntax for vim. 
+
+Inspired by <https://github.com/Icinga/icinga2/tree/master/tools/syntax/vim>
 
 # How to install
 
